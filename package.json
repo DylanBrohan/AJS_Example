@@ -1,0 +1,14 @@
+{
+  "name": "ajs_example",
+  "version": "1.0.0",
+  "description": "Examples of React",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Brohan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
